@@ -53,3 +53,9 @@ Codon usage bias (CUB) is a widespread phenomenon in natural organisms, which de
 
 ### Antibiotic resistance
 * [The Conversation](https://theconversation.com/antibiotic-resistance-is-not-new-it-existed-long-before-people-used-drugs-to-kill-bacteria-115836)
+
+## Stay tuned :iphone:
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ErillLab)
+
+
+
