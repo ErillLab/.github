@@ -1,4 +1,5 @@
 ## Erill Lab
+![Erill Lab Logo](https://github.com/ErillLab/.github/profile/ErillLab_Logo.svg)
 
 As Robert Robbins[^1] put it, the DNA sequence of an organism is “the result of literally millions of maintenance revisions performed by the worst possible set of kludge–using, spaghetti–coding, opportunistic hackers (i.e. evolution) who delight in clever tricks like writing self–modifying code and relying upon undocumented system quirks”. As a result, deciphering molecular biology is the ultimate dream of a computer scientist.
 
