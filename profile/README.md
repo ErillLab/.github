@@ -5,6 +5,8 @@ As Robert Robbins[^1] put it, the DNA sequence of an organism is “the result o
 [^1]: Robbins, R. J., 1992. Challenges in the human genome project. IEEE Engineering in Biology and Medicine, (March 1992):25–34.
 
 ## Research Lines
+*Click on the titles to read more.*
+
 <details>
 <summary>Evolutionary simulation of transcription factor-binding site interaction principles</summary>
 Modeling transcription factor-binding site interactions is of vital importance to enhancing the quality of regulatory network inference algorithms and to improving our understanding transcriptional regulation. In spite of this, the most frequently used model for transcription factor binding (the position-specific weight/scoring matrix, or PSSM) has remained virtually unchanged for over 30 years. Furthermore, given the difficulty of generating large and accurate datasets for multiple transcription factors, it is not obvious what assumptions of this basic model should be relaxed or how. We propose to use explicit simulations of the co-evolution of a transcription factor with its target sites in a genomic context to test the validity of different assumptions, such as positional independence, by comparing the evolutionary outcomes obtained with relaxed and constrained models.
@@ -40,4 +42,14 @@ As part of the [SEA-PHAGES program](https://seaphages.org/), we routinely work w
 Codon usage bias (CUB) is a widespread phenomenon in natural organisms, which depart from a uniform usage of codons (triplets of mRNA letters that designate an amino acid in the genetic code). The genes of many organisms show highly biased codon usages that correlate well with their expression levels. Thus, indices that measure CUB are important tools for prediction of gene expression, optimization of gene sequences or assessment of lateral gene transfer (LGT).
 </details>
 
+## Highlights
+### First discovery of a virus that attaches to another virus [(deCarvalho *et al.*, 2023)](https://www.nature.com/articles/s41396-023-01548-0)
+* [Washington Post](https://www.washingtonpost.com/science/2023/11/13/mindflayer-virus-discovered-maryland/)
+* [Scientific American](https://www.scientificamerican.com/article/vampire-viruses-prey-on-other-viruses-to-replicate-themselves-and-may-hold-the-key-to-new-antiviral-therapies/)
 
+### Host-phage cross-regulation [(Mascolo *et al.*, 2022)](https://doi.org/10.3389/fmicb.2022.918015)
+* [PHYS.ORG](https://phys.org/news/2022-09-viruses-eyes-ears.html)
+* [The Conversation](https://theconversation.com/viruses-may-be-watching-you-some-microbes-lie-in-wait-until-their-hosts-unknowingly-give-them-the-signal-to-start-multiplying-and-kill-them-189949)
+
+### Antibiotic resistance
+* [The Conversation](https://theconversation.com/antibiotic-resistance-is-not-new-it-existed-long-before-people-used-drugs-to-kill-bacteria-115836)
