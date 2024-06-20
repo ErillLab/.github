@@ -4,7 +4,7 @@ As Robert Robbins[^1] put it, the DNA sequence of an organism is “the result o
 
 [^1]: Robbins, R. J., 1992. Challenges in the human genome project. IEEE Engineering in Biology and Medicine, (March 1992):25–34.
 
-## Research Lines
+## Research Lines :microscope:
 *Click on the titles to read more.*
 
 <details>
@@ -42,7 +42,7 @@ As part of the [SEA-PHAGES program](https://seaphages.org/), we routinely work w
 Codon usage bias (CUB) is a widespread phenomenon in natural organisms, which depart from a uniform usage of codons (triplets of mRNA letters that designate an amino acid in the genetic code). The genes of many organisms show highly biased codon usages that correlate well with their expression levels. Thus, indices that measure CUB are important tools for prediction of gene expression, optimization of gene sequences or assessment of lateral gene transfer (LGT).
 </details>
 
-## Highlights
+## Highlights :newspaper:
 ### First discovery of a virus that attaches to another virus [(deCarvalho *et al.*, 2023)](https://www.nature.com/articles/s41396-023-01548-0)
 * [Washington Post](https://www.washingtonpost.com/science/2023/11/13/mindflayer-virus-discovered-maryland/)
 * [Scientific American](https://www.scientificamerican.com/article/vampire-viruses-prey-on-other-viruses-to-replicate-themselves-and-may-hold-the-key-to-new-antiviral-therapies/)
