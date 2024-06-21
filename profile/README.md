@@ -5,7 +5,7 @@ As Robert Robbins[^1] put it, the DNA sequence of an organism is “the result o
 [^1]: Robbins, R. J., 1992. Challenges in the human genome project. IEEE Engineering in Biology and Medicine, (March 1992):25–34.
 
 ## Research Lines :microscope:
-*Click on the titles to read more.*
+<mark>*Click on the titles to read more.*</mark>
 
 <details>
 <summary>Evolutionary simulation of transcription factor-binding site interaction principles</summary>
